@@ -9,7 +9,7 @@
  1. From GitHub, download the zip file if not Fork to the local machine
  2. From the downloaded folder, double click on index.html if not using clone feature in GitHub from the local machine
  3. Move the cursor in the window
- 4. Watch the pupiles which follow cursor movement
+ 4. Watch the pupiles which follow cursor's movements
 
  ### <div align="center">Roadmap of Major Future Improvements</div>
  - Adding eyebrows, mouth, and lip with unique movements to show facial expression
