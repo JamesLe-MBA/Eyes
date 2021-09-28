@@ -6,9 +6,10 @@
     - Use "oneeye.png" image source to add a second eye.
 
 ### <div align="center">Instructions</div>
- 1. Open index.html in a browser
- 2. Move the cursor in the window
- 3. Watch the pupiles which follow cursor movement
+ 1. From GitHub, download the zip file if not Fork to the local machine
+ 2. From the downloaded folder, double click on index.html if not using clone feature in GitHub from the local machine
+ 3. Move the cursor in the window
+ 4. Watch the pupiles which follow cursor movement
 
  ### <div align="center">Roadmap of Major Future Improvements</div>
  - Adding eyebrows, mouth, and lip with unique movements to show facial expression
@@ -17,5 +18,3 @@
 
 ### <div align="center">License Information</div>
  - [MIT License](https://mit-license.org/)
-
-***
